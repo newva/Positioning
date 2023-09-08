@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GPS_Center">
+</Property><Property Name="解决方案文件" Value="E:\工作\博软通\2014\2014年2月14日\rcc\GPS_Center.sln">
+</Property><Property Name="Date" Value="2014年2月14日 星期五">
+</Property><Property Name="Time" Value="13:32">
+</Property><Property Name="日志号" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="Common" Source="Common\Common.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="Common" Source="Common\Common.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="GPS.BLL" Source="BLL\GPS.BLL.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="GPS.BLL" Source="BLL\GPS.BLL.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="GPS.DALFactory" Source="DALFactory\GPS.DALFactory.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="GPS.DALFactory" Source="DALFactory\GPS.DALFactory.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="GPS.IDAL" Source="IDAL\GPS.IDAL.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="GPS.IDAL" Source="IDAL\GPS.IDAL.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="GPS.Model" Source="Model\GPS.Model.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="GPS.Model" Source="Model\GPS.Model.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="GPS.MySQLDAL" Source="MySQLDAL\GPS.MySQLDAL.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="GPS.MySQLDAL" Source="MySQLDAL\GPS.MySQLDAL.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="" Source="GPS_Center.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="GPS_Center.sln" Description="Converted">
+</Event></UpgradeLog>
